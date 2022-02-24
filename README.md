@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkAvenger0305
+- 👀 I’m interested in coding, games, games, science.
+- 🌱 I’m currently learning how to make the prestige tree mods.
+- 💞️ I’m looking to collaborate on, Good luck.
+- 📫 How to reach me discord, mail, instagram.
