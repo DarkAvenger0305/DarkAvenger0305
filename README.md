@@ -2,10 +2,10 @@
 - I spend my time tinkering with technology.
 - I have 3 Active PC's.(Kinda)
 - My Main PC is:
-- CPU: AMD RYZEN 5 7600X
+- CPU: AMD RYZEN 9 9950X
 - GPU: Nvidia Geforce RTX 4070
 - My Second PC is:
 - CPU: INTEL PENTIUM J4205
 - GPU: INTEL HD GRAGHICS 505
-- My third PC is just a Raspberry Pi with hopefully soon to be 5.25TB of Storage
+- My third PC is just a Raspberry Pi
 - I also play games, aim to learn to know how to code and also do pixel art.
